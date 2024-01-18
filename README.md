@@ -8,6 +8,7 @@
 * Gradle
 * Spring
 * H2 database
+* Bootstrap
 * HTML
 * CSS
 
